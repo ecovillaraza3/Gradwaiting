@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GradWaiting" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/StartingReview" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../StartingReview" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_mixer.dll.a" />
+					<Add library="../../../Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_mixer.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/StartingReview" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../StartingReview" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/pc/Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:/Users/pc/Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_ttf.dll.a" />
+			<Add library="../../../Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_ttf.a" />
+			<Add library="../../../Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_mixer.dll.a" />
+			<Add library="../../../Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib/libSDL2_mixer.a" />
+			<Add directory="C:/Users/pc/Documents/Visual Studio Files/Dev tool/SDL2-2.0.9/i686-w64-mingw32/lib" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="XCOPY $(#sdl2)\bin\*.dll $(TARGET_OUTPUT_DIR) /D /Y" />
+		</ExtraCommands>
+		<Unit filename="Flipps.otf" />
+		<Unit filename="VintageParty.ttf" />
+		<Unit filename="assets/Dirt.png" />
+		<Unit filename="assets/Grass.png" />
+		<Unit filename="assets/Water.png" />
+		<Unit filename="assets/bgmenu.mp3" />
+		<Unit filename="assets/book.png" />
+		<Unit filename="assets/bubblegum.png" />
+		<Unit filename="assets/button.png" />
+		<Unit filename="assets/coltex.png" />
+		<Unit filename="assets/door.png" />
+		<Unit filename="assets/elem_bookshelf.png" />
+		<Unit filename="assets/elem_clock.png" />
+		<Unit filename="assets/elem_door.png" />
+		<Unit filename="assets/elem_flag.png" />
+		<Unit filename="assets/elem_tileset.png" />
+		<Unit filename="assets/elem_wall.png" />
+		<Unit filename="assets/endless_btn.png" />
+		<Unit filename="assets/highschool_tileset.png" />
+		<Unit filename="assets/highschoolmap.txt" />
+		<Unit filename="assets/icecream.png" />
+		<Unit filename="assets/mBook.png" />
+		<Unit filename="assets/mBook2.png" />
+		<Unit filename="assets/mBook3.png" />
+		<Unit filename="assets/mBook4.png" />
+		<Unit filename="assets/main_menu.png" />
+		<Unit filename="assets/no.png" />
+		<Unit filename="assets/paper.png" />
+		<Unit filename="assets/player.png" />
+		<Unit filename="assets/player2.png" />
+		<Unit filename="assets/player3.png" />
+		<Unit filename="assets/player4.png" />
+		<Unit filename="assets/player5.png" />
+		<Unit filename="assets/player_anim.png" />
+		<Unit filename="assets/player_anim_two.png" />
+		<Unit filename="assets/player_anims.png" />
+		<Unit filename="assets/player_idle.png" />
+		<Unit filename="assets/player_run.png" />
+		<Unit filename="assets/player_running.png" />
+		<Unit filename="assets/player_runninger.png" />
+		<Unit filename="assets/sign.png" />
+		<Unit filename="assets/story_btn.png" />
+		<Unit filename="assets/tilemap" />
+		<Unit filename="assets/tilemo.png" />
+		<Unit filename="assets/tileset.png" />
+		<Unit filename="assets/window.png" />
+		<Unit filename="assets/yes.png" />
+		<Unit filename="currentscore.txt" />
+		<Unit filename="highscore.txt" />
+		<Unit filename="include/Animation.h" />
+		<Unit filename="include/AssetManager.h" />
+		<Unit filename="include/ButtonObject.h" />
+		<Unit filename="include/CollegeContinue.h" />
+		<Unit filename="include/CollegeWindow.h" />
+		<Unit filename="include/ColliderComponent.h" />
+		<Unit filename="include/Collision.h" />
+		<Unit filename="include/Components.h" />
+		<Unit filename="include/ContinueHighSchool.h" />
+		<Unit filename="include/ContinueWindow.h" />
+		<Unit filename="include/ECS.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/HighschoolRetryWindow.h" />
+		<Unit filename="include/HighschoolWindow.h" />
+		<Unit filename="include/KeyboardController.h" />
+		<Unit filename="include/MainMenu.h" />
+		<Unit filename="include/Map.h" />
+		<Unit filename="include/MouseEvent.h" />
+		<Unit filename="include/ProjectileComponent.h" />
+		<Unit filename="include/RetryCollege.h" />
+		<Unit filename="include/RetryWindow.h" />
+		<Unit filename="include/SpriteComponent.h" />
+		<Unit filename="include/Story.h" />
+		<Unit filename="include/StoryRetryWindow.h" />
+		<Unit filename="include/TextureManager.h" />
+		<Unit filename="include/TileComponent.h" />
+		<Unit filename="include/TransformComponent.h" />
+		<Unit filename="include/UILabel.h" />
+		<Unit filename="include/Vector2D.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mainyear.txt" />
+		<Unit filename="src/AssetManager.cpp" />
+		<Unit filename="src/CollegeContinue.cpp" />
+		<Unit filename="src/CollegeWindow.cpp" />
+		<Unit filename="src/Collision.cpp" />
+		<Unit filename="src/ContinueHighSchool.cpp" />
+		<Unit filename="src/ContinueWindow.cpp" />
+		<Unit filename="src/ECS.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/HighschoolRetryWindow.cpp" />
+		<Unit filename="src/HighschoolWindow.cpp" />
+		<Unit filename="src/MainMenu.cpp" />
+		<Unit filename="src/Map.cpp" />
+		<Unit filename="src/MouseEvent.cpp" />
+		<Unit filename="src/RetryCollege.cpp" />
+		<Unit filename="src/RetryWindow.cpp" />
+		<Unit filename="src/Story.cpp" />
+		<Unit filename="src/StoryRetryWindow.cpp" />
+		<Unit filename="src/TextureManager.cpp" />
+		<Unit filename="src/Vector2D.cpp" />
+		<Unit filename="yearlevel.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

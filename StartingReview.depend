@@ -1,0 +1,744 @@
+# depslib dependency file v1.0
+1547616897 source:c:\users\pc\desktop\review\startingreview\main.cpp
+	<SDL2/SDL.h>
+	"MainMenu.h"
+	"Game.h"
+	"Story.h"
+	<iostream>
+	<fstream>
+	<string>
+	"RetryWindow.h"
+	"ContinueWindow.h"
+	"StoryRetryWindow.h"
+	"HighschoolWindow.h"
+	"ContinueHighSchool.h"
+	"HighschoolRetryWindow.h"
+	"CollegeWindow.h"
+	"CollegeContinue.h"
+	"RetryCollege.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\close_code.h
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1540994944 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548223485 c:\users\pc\desktop\review\startingreview\include\game.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"RetryWindow.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	"SDL2/SDL_mixer.h"
+
+1498024960 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548228754 source:c:\users\pc\desktop\review\startingreview\src\game.cpp
+	"Game.h"
+	"Map.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Collision.h"
+	"Components.h"
+	<sstream>
+
+1546681895 source:c:\users\pc\desktop\review\startingreview\collision.cpp
+	"Collision.h"
+
+1547002701 c:\users\pc\desktop\review\startingreview\include\collision.h
+	"Game.h"
+	"SDL2/SDL.h"
+
+1546589063 source:c:\users\pc\desktop\review\startingreview\texturemanager.cpp
+	"TextureManager.h"
+
+1547344892 c:\users\pc\desktop\review\startingreview\include\texturemanager.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+
+1546743275 source:c:\users\pc\desktop\review\startingreview\vector2d.cpp
+	"Vector2D.h"
+
+1546841654 c:\users\pc\desktop\review\startingreview\include\vector2d.h
+	<iostream>
+
+1547184416 c:\users\pc\desktop\review\startingreview\include\components.h
+	"ECS.h"
+	"TransformComponent.h"
+	"SpriteComponent.h"
+	"KeyboardController.h"
+	"ColliderComponent.h"
+	"TileComponent.h"
+	"ProjectileComponent.h"
+	"Components.h"
+	"UILabel.h"
+
+1547180495 c:\users\pc\desktop\review\startingreview\include\ecs.h
+	<iostream>
+	<vector>
+	<memory>
+	<algorithm>
+	<bitset>
+	<array>
+
+1547345345 c:\users\pc\desktop\review\startingreview\include\transformcomponent.h
+	"Components.h"
+	"Vector2D.h"
+
+1547345672 c:\users\pc\desktop\review\startingreview\include\spritecomponent.h
+	"Components.h"
+	"SDL2/SDL.h"
+	"TextureManager.h"
+	"Animation.h"
+	<map>
+	"AssetManager.h"
+
+1548226621 c:\users\pc\desktop\review\startingreview\include\keyboardcontroller.h
+	"Game.h"
+	"ECS.h"
+	"Components.h"
+	<stdio.h>
+	"Collision.h"
+	"AssetManager.h"
+	"Story.h"
+	"HighschoolWindow.h"
+	"CollegeWindow.h"
+	<string>
+
+1547339902 c:\users\pc\desktop\review\startingreview\include\collidercomponent.h
+	<string>
+	"SDL2/SDL.h"
+	"Components.h"
+	"TextureManager.h"
+	<stdio.h>
+
+1548228357 source:c:\users\pc\desktop\review\startingreview\src\map.cpp
+	"Map.h"
+	"Game.h"
+	<fstream>
+	"ECS.h"
+	"Components.h"
+
+1547454483 c:\users\pc\desktop\review\startingreview\include\map.h
+	<string>
+	"SDL2/SDL.h"
+	"AssetManager.h"
+
+1547088377 source:c:\users\pc\desktop\review\startingreview\src\collision.cpp
+	"Collision.h"
+	"ColliderComponent.h"
+	<stdio.h>
+
+1547259862 source:c:\users\pc\desktop\review\startingreview\src\texturemanager.cpp
+	"TextureManager.h"
+	"AssetManager.h"
+
+1546743275 source:c:\users\pc\desktop\review\startingreview\src\vector2d.cpp
+	"Vector2D.h"
+
+1548143007 c:\users\pc\desktop\review\startingreview\include\tilecomponent.h
+	"ECS.h"
+	"SDL2/SDL.h"
+	"Vector2D.h"
+	"Game.h"
+	"TextureManager.h"
+
+1546927766 source:c:\users\pc\desktop\review\startingreview\src\ecs.cpp
+	"ECS.h"
+
+1547114968 c:\users\pc\desktop\review\startingreview\include\animation.h
+
+1547373738 c:\users\pc\desktop\review\startingreview\include\assetmanager.h
+	<map>
+	<string>
+	"TextureManager.h"
+	"Vector2D.h"
+	"ECS.h"
+	"SDL2/SDL_ttf.h"
+
+1548143154 source:c:\users\pc\desktop\review\startingreview\src\assetmanager.cpp
+	"AssetManager.h"
+	"Components.h"
+
+1548142667 c:\users\pc\desktop\review\startingreview\include\projectilecomponent.h
+	"ECS.h"
+	"Components.h"
+	"Vector2D.h"
+
+1548219852 c:\users\pc\desktop\review\startingreview\include\mainmenu.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	"TextureManager.h"
+	"MouseEvent.h"
+	<string>
+	"SDL2/SDL_ttf.h"
+	<time.h>
+	<stdio.h>
+	"Story.h"
+	"Game.h"
+	"SDL2/SDL_mixer.h"
+
+1548222380 source:c:\users\pc\desktop\review\startingreview\src\mainmenu.cpp
+	"MainMenu.h"
+	"ButtonObject.h"
+	"time.h"
+
+1547108458 c:\users\pc\desktop\review\startingreview\include\menutexturemanager.h
+	"MainMenu.h"
+
+1547108559 source:c:\users\pc\desktop\review\startingreview\src\menutexturemanager.cpp
+	"MenuTextureManager.h"
+
+1547272899 c:\users\pc\desktop\review\startingreview\include\mouseevent.h
+	"MainMenu.h"
+
+1547272908 source:c:\users\pc\desktop\review\startingreview\src\mouseevent.cpp
+	"MouseEvent.h"
+
+1547106519 source:c:\users\pc\desktop\review\startingreview\src\buttonobject.cpp
+	"ButtonObject.h"
+
+1547457754 c:\users\pc\desktop\review\startingreview\include\buttonobject.h
+	"MainMenu.h"
+	"Animation.h"
+	<map>
+
+1454362933 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548227413 source:c:\users\pc\desktop\review\startingreview\src\story.cpp
+	"Story.h"
+	"Map.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Collision.h"
+	"Components.h"
+	<sstream>
+	<fstream>
+	"StoryRetryWindow.h"
+
+1548223983 c:\users\pc\desktop\review\startingreview\include\story.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<time.h>
+	"ContinueWindow.h"
+	"SDL2/SDL_mixer.h"
+
+1548224621 c:\users\pc\desktop\review\startingreview\include\retrywindow.h
+	"Game.h"
+	"MouseEvent.h"
+
+1548228856 source:c:\users\pc\desktop\review\startingreview\src\retrywindow.cpp
+	"RetryWindow.h"
+	"Components.h"
+	"AssetManager.h"
+	"ButtonObject.h"
+	"fstream"
+	"Story.h"
+
+1547262086 c:\users\pc\desktop\review\startingreview\include\uilabel.h
+	"ECS.h"
+	"AssetManager.h"
+	"TextureManager.h"
+	"Game.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+
+1548230344 source:c:\users\pc\desktop\review\startingreview\src\continuewindow.cpp
+	"ContinueWindow.h"
+	"Components.h"
+	"AssetManager.h"
+	"ButtonObject.h"
+	"fstream"
+	"StoryRetryWindow.h"
+
+1547447384 c:\users\pc\desktop\review\startingreview\include\continuewindow.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<string>
+	"Story.h"
+
+1547429066 c:\users\pc\desktop\review\startingreview\include\storyretrywindow.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<string>
+	"Components.h"
+	"AssetManager.h"
+	"UILabel.h"
+	"ButtonObject.h"
+	"MouseEvent.h"
+	"ContinueWindow.h"
+
+1548227393 source:c:\users\pc\desktop\review\startingreview\src\storyretrywindow.cpp
+	"StoryRetryWindow.h"
+
+1548230813 source:c:\users\pc\desktop\review\startingreview\src\highschoolwindow.cpp
+	"HighschoolWindow.h"
+	"Map.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Collision.h"
+	"Components.h"
+	<sstream>
+	<fstream>
+	"Story.h"
+	"HighschoolRetryWindow.h"
+
+1548230626 c:\users\pc\desktop\review\startingreview\include\highschoolwindow.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<time.h>
+	"ContinueHighSchool.h"
+	"SDL2/SDL_mixer.h"
+
+1547447246 c:\users\pc\desktop\review\startingreview\include\continuehighschool.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<string>
+	"HighschoolWindow.h"
+
+1548230949 source:c:\users\pc\desktop\review\startingreview\src\continuehighschool.cpp
+	"ContinueHighSchool.h"
+	"Components.h"
+	"AssetManager.h"
+	"ButtonObject.h"
+	"fstream"
+	"HighschoolRetryWindow.h"
+	"Story.h"
+
+1548230813 source:c:\users\pc\desktop\review\startingreview\src\highschoolretrywindow.cpp
+	"HighschoolRetryWindow.h"
+
+1547456364 c:\users\pc\desktop\review\startingreview\include\highschoolretrywindow.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<string>
+	"Components.h"
+	"AssetManager.h"
+	"UILabel.h"
+	"ButtonObject.h"
+	"MouseEvent.h"
+	"ContinueHighSchool.h"
+
+1548231764 source:c:\users\pc\desktop\review\startingreview\src\collegewindow.cpp
+	"CollegeWindow.h"
+	"Map.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Collision.h"
+	"Components.h"
+	<sstream>
+	<fstream>
+	"Story.h"
+	"RetryCollege.h"
+
+1548231259 c:\users\pc\desktop\review\startingreview\include\collegewindow.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+	<vector>
+	<iostream>
+	"SDL2/SDL_ttf.h"
+	<fstream>
+	<time.h>
+	"CollegeContinue.h"
+	"SDL2/SDL_mixer.h"
+
+1548231457 source:c:\users\pc\desktop\review\startingreview\src\collegecontinue.cpp
+	"CollegeContinue.h"
+	"Components.h"
+	"AssetManager.h"
+	"ButtonObject.h"
+	"fstream"
+	"RetryCollege.h"
+	"Story.h"
+
+1547455081 c:\users\pc\desktop\review\startingreview\include\collegecontinue.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_ttf.h"
+	<string>
+	"CollegeWindow.h"
+
+1548231362 source:c:\users\pc\desktop\review\startingreview\src\retrycollege.cpp
+	"RetryCollege.h"
+
+1547456364 c:\users\pc\desktop\review\startingreview\include\retrycollege.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<string>
+	"Components.h"
+	"AssetManager.h"
+	"UILabel.h"
+	"ButtonObject.h"
+	"MouseEvent.h"
+	"CollegeContinue.h"
+
+1540994392 c:\users\pc\documents\visual studio files\dev tool\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
